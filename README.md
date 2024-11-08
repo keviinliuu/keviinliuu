@@ -1,5 +1,8 @@
 ### sup 👋
 
+My name is Kevin, and I'm currently a third-year Software Engineering student at the University of Waterloo.
+
+Feel free to check out my projects!
 <!--
 **keviinliuu/keviinliuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
